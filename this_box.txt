@@ -1,0 +1,53 @@
+sudo apt install git vim
+
+mkdir gitrepos
+cd gitrepos
+git clone https://github.com/blandmanstudios/ParameterizedMotion.git
+cd ParameterizedMotion
+./install.sh
+./run_cmake.sh # it cant find dart
+rm -rf build
+
+
+sudo apt-add-repository ppa:dartsim/ppa
+sudo apt-get update  # not necessary since Bionic
+sudo apt-get install libdart6-all-dev
+
+
+git clone https://github.com/snumrl/dart-ltspd.git
+cd dart-ltspd
+mkdir build
+cd build
+cmake ..
+make -j4
+sudo make install
+
+
+# Download boost 1.69 from https://boostorg.jfrog.io/artifactory/main/release/1.69.0/source/
+cd ~/Downloads/
+unzip boost_1_69_0.zip
+cd boost_1_69_0
+./bootstrap.sh --prefix=/home/steeve/gitrepos/ParameterizedMotion/c_env --with-python=python3
+./b2
+./b2 install
+
+
+mkdir gitrepos
+cd gitrepos
+cd ParameterizedMotion
+./run_cmake.sh
+cd build
+make -j4
+
+reboot
+
+
+# yay it build
+cd render
+export LD_LIBRARY_PATH=/usr/local/lib
+./render --bvh=../../data/motion/backflip_mxm.bvh
+
+ssh-keygen
+# upload it to github
+
+git config --global core.editor "vim"
