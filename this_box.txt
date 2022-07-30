@@ -1,0 +1,55 @@
+sudo apt install vim
+
+sudo apt-add-repository ppa:dartsim/ppa
+sudo apt-get update  # not necessary since Bionic
+
+sudo apt-get install libdart6-all-dev
+
+sudo apt install git cmake build-essential
+
+mkdir ~/gitrepos
+cd ~/gitrepos
+
+git clone https://github.com/snumrl/dart-ltspd.git
+
+cd ~/gitrepos/dart-ltspd
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
+
+sudo apt-get install libboost-all-dev
+
+# download boost 1.69 from https://boostorg.jfrog.io/artifactory/main/release/1.69.0/source/
+cd ~/Downloads/
+unzip boost-1_69_0.zip
+cd boost-1_69_0
+./bootstrap.sh
+cd boost-1_69_0
+./bootstrap.sh
+./b2
+sudo ./b2 install
+./bootstrap.sh --prefix=~/gitrepos/ParameterizedMotion/c_env/
+./b2
+./b2 install
+
+
+cd ~/gitrepos
+git clone https://github.com/blandmanstudios/ParameterizedMotion.git
+cd ~/gitrepos/ParameterizedMotion
+git config user.name steve-is-bland
+git config user.email 78241715+steve-is-bland@users.noreply.github.com
+./install
+./run_cmake
+cd build
+make -j4
+
+# lol i think their install script install dart-ltspd but i only needed to build it cuz i installed an external dart. i probably could have installed neither and they would have both build into the c_env folder
+
+ssh-keygen
+# then upload the key to steve-is-bland on github
+
+
+
+
