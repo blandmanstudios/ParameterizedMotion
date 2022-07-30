@@ -51,3 +51,27 @@ ssh-keygen
 # upload it to github
 
 git config --global core.editor "vim"
+
+sudo apt install steam # this was just so i could install games and make sure my GPU is working
+
+sudo apt install libcudart9.1 # i dont think this ended up being used for ParameterizedMotion
+
+# Install cuda11 according to instructions cuz of runtime problew with ParameterizedMotion
+# https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=deb_network
+cd /tmp
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-ubuntu1804.pin
+sudo mv cuda-ubuntu1804.pin /etc/apt/preferences.d/cuda-repository-pin-600
+sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/3bf863cc.pub
+sudo add-apt-repository "deb https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/ /"
+sudo apt-get update
+sudo apt-get -y install cuda
+
+
+#Plug in NVIDIA GTX 770 GPU
+# In Software & Updates it is set to "Continue using a manually installed driver"
+sudo apt-install xserver-xorg-video-nvidia-470
+
+sudo ubuntu-drivers autoinstall
+reboot
+
+# Now ParameterizedMotion stuff is working at a reasonable FPS and even running on their pretrained model!

@@ -1,0 +1,42 @@
+
+# the first few times you might get an .so error if thats the case run this
+export LD_LIBRARY_PATH=/usr/local/lib
+
+# then you should be able to run this guy
+./render --bvh=../../data/motion/jump_mxm.bvh
+
+# if you want to do ML or use learned networks gotta use this command to lead python
+source ../../py_env/bin/activate
+
+# here is an example of loading a network (need CUDA installed and capable GPU)
+./render --bvh=../../data/motion/jump_mxm.bvh --ppo=../../network/output/jump_mxm/network-0.data-00000-of-00001 --parametric
+
+# oops i dont need to include absolute or relative paths
+./render --bch=jump_mxm.bhv
+
+# I ran one of the pretrained models!
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm/network-0
+# That is super fun to play with
+# Turn up or down the gravity and up or down the energy
+# There was a pretty funny one i came up with where he lands so hard he breaks his own back
+
+# Next step is to learn to train models
+
+
+
+
+#### Notes and errors
+
+# It was failing to load this shared object cuda file like below: libcudart.so.11.0
+2022-07-30 16:43:55.374119: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+
+# So I installed CUDA Toolkit 11.7 from instructions here: https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=deb_network
+
+# Then it was erroring that I dont have a CUDA device (cuz i was using intel integrated graphics)
+2022-07-30 18:07:33.939900: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcudart.so.11.0
+2022-07-30 18:07:44.665180: I tensorflow/compiler/jit/xla_cpu_device.cc:41] Not creating XLA devices, tf_xla_enable_xla_devices not set
+2022-07-30 18:07:44.734105: I tensorflow/stream_executor/platform/default/dso_loader.cc:49] Successfully opened dynamic library libcuda.so.1
+2022-07-30 18:07:44.946008: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+
+
+# So i installed an nvidia GPU and nvidia drivers and i got it working using the commands above
