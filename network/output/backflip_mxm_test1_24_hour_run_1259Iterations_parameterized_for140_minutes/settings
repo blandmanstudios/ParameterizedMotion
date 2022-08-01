@@ -1,0 +1,13 @@
+2022-07-31 19:52:15
+test_name : backflip_mxm_test1
+num slave : 4
+num state : 291
+num action : 64
+num param : 2
+learning rate : 0.0002
+gamma : 0.95
+lambd : 0.95
+batch size : 1024
+steps per iteration : 5000
+clip ratio : 0.2
+pretrained : True
