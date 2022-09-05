@@ -1,0 +1,1400 @@
+===============================================================
+2022-08-06 01:30:13
+Elapsed time : 66.15s
+Num iter : 1
+total episode count : 1433
+total transition count : 51474
+total transition per episodes : 35.92
+episode count : 1433
+transition count : 51474
+transition per episodes : 35.92
+rewards per episodes : 17.93
+max episode length : 109.60890516330406
+normalized time elapsed per transition : 1.52
+===============================================================
+===============================================================
+2022-08-06 01:31:19
+Elapsed time : 132.12s
+Num iter : 2
+total episode count : 2865
+total transition count : 102983
+total transition per episodes : 35.95
+episode count : 1432
+transition count : 51509
+transition per episodes : 35.97
+rewards per episodes : 18.44
+max episode length : 109.60890516330406
+normalized time elapsed per transition : 1.52
+===============================================================
+===============================================================
+2022-08-06 01:32:25
+Elapsed time : 197.80s
+Num iter : 3
+total episode count : 4293
+total transition count : 154519
+total transition per episodes : 35.99
+episode count : 1428
+transition count : 51536
+transition per episodes : 36.09
+rewards per episodes : 18.79
+max episode length : 109.60890516330406
+normalized time elapsed per transition : 1.50
+===============================================================
+===============================================================
+2022-08-06 01:33:31
+Elapsed time : 263.55s
+Num iter : 4
+total episode count : 5661
+total transition count : 206192
+total transition per episodes : 36.42
+episode count : 1368
+transition count : 51673
+transition per episodes : 37.77
+rewards per episodes : 20.12
+max episode length : 120.5809344821656
+normalized time elapsed per transition : 1.51
+===============================================================
+===============================================================
+2022-08-06 01:34:37
+Elapsed time : 329.23s
+Num iter : 5
+total episode count : 6990
+total transition count : 257871
+total transition per episodes : 36.89
+episode count : 1329
+transition count : 51679
+transition per episodes : 38.89
+rewards per episodes : 20.95
+max episode length : 123.61341626177455
+normalized time elapsed per transition : 1.50
+===============================================================
+===============================================================
+2022-08-06 01:35:42
+Elapsed time : 395.02s
+Num iter : 6
+total episode count : 8297
+total transition count : 309501
+total transition per episodes : 37.30
+episode count : 1307
+transition count : 51630
+transition per episodes : 39.50
+rewards per episodes : 21.63
+max episode length : 123.61341626177455
+normalized time elapsed per transition : 1.43
+===============================================================
+===============================================================
+2022-08-06 01:36:48
+Elapsed time : 460.76s
+Num iter : 7
+total episode count : 9580
+total transition count : 361210
+total transition per episodes : 37.70
+episode count : 1283
+transition count : 51709
+transition per episodes : 40.30
+rewards per episodes : 22.23
+max episode length : 123.61341626177455
+normalized time elapsed per transition : 1.39
+===============================================================
+===============================================================
+2022-08-06 01:37:54
+Elapsed time : 526.98s
+Num iter : 8
+total episode count : 10832
+total transition count : 413004
+total transition per episodes : 38.13
+episode count : 1252
+transition count : 51794
+transition per episodes : 41.37
+rewards per episodes : 22.84
+max episode length : 144.74378874523774
+normalized time elapsed per transition : 1.41
+===============================================================
+===============================================================
+2022-08-06 01:39:00
+Elapsed time : 593.17s
+Num iter : 9
+total episode count : 12054
+total transition count : 464598
+total transition per episodes : 38.54
+episode count : 1222
+transition count : 51594
+transition per episodes : 42.22
+rewards per episodes : 23.48
+max episode length : 144.74378874523774
+normalized time elapsed per transition : 1.36
+===============================================================
+===============================================================
+2022-08-06 01:40:07
+Elapsed time : 659.68s
+Num iter : 10
+total episode count : 13267
+total transition count : 516283
+total transition per episodes : 38.91
+episode count : 1213
+transition count : 51685
+transition per episodes : 42.61
+rewards per episodes : 23.85
+max episode length : 144.74378874523774
+normalized time elapsed per transition : 1.35
+===============================================================
+===============================================================
+2022-08-06 01:41:13
+Elapsed time : 725.97s
+Num iter : 11
+total episode count : 14458
+total transition count : 568137
+total transition per episodes : 39.30
+episode count : 1191
+transition count : 51854
+transition per episodes : 43.54
+rewards per episodes : 24.45
+max episode length : 144.74378874523774
+normalized time elapsed per transition : 1.34
+===============================================================
+===============================================================
+2022-08-06 01:42:17
+Elapsed time : 789.94s
+Num iter : 12
+total episode count : 15506
+total transition count : 620412
+total transition per episodes : 40.01
+episode count : 1048
+transition count : 52275
+transition per episodes : 49.88
+rewards per episodes : 27.94
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.42
+===============================================================
+===============================================================
+2022-08-06 01:43:21
+Elapsed time : 853.72s
+Num iter : 13
+total episode count : 16599
+total transition count : 672263
+total transition per episodes : 40.50
+episode count : 1093
+transition count : 51851
+transition per episodes : 47.44
+rewards per episodes : 26.70
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.35
+===============================================================
+===============================================================
+2022-08-06 01:44:25
+Elapsed time : 918.03s
+Num iter : 14
+total episode count : 17702
+total transition count : 724450
+total transition per episodes : 40.92
+episode count : 1103
+transition count : 52187
+transition per episodes : 47.31
+rewards per episodes : 26.81
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.32
+===============================================================
+===============================================================
+2022-08-06 01:45:51
+Elapsed time : 1003.64s
+Num iter : 15
+total episode count : 18754
+total transition count : 776458
+total transition per episodes : 41.40
+episode count : 1052
+transition count : 52008
+transition per episodes : 49.44
+rewards per episodes : 28.03
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.30
+===============================================================
+===============================================================
+2022-08-06 01:46:53
+Elapsed time : 1065.75s
+Num iter : 16
+total episode count : 19731
+total transition count : 828771
+total transition per episodes : 42.00
+episode count : 977
+transition count : 52313
+transition per episodes : 53.54
+rewards per episodes : 30.34
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.31
+===============================================================
+===============================================================
+2022-08-06 01:47:57
+Elapsed time : 1129.88s
+Num iter : 17
+total episode count : 20811
+total transition count : 880847
+total transition per episodes : 42.33
+episode count : 1080
+transition count : 52076
+transition per episodes : 48.22
+rewards per episodes : 27.55
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.27
+===============================================================
+===============================================================
+2022-08-06 01:48:59
+Elapsed time : 1191.85s
+Num iter : 18
+total episode count : 21795
+total transition count : 932966
+total transition per episodes : 42.81
+episode count : 984
+transition count : 52119
+transition per episodes : 52.97
+rewards per episodes : 30.27
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.28
+===============================================================
+===============================================================
+2022-08-06 01:50:03
+Elapsed time : 1255.86s
+Num iter : 19
+total episode count : 22899
+total transition count : 984733
+total transition per episodes : 43.00
+episode count : 1104
+transition count : 51767
+transition per episodes : 46.89
+rewards per episodes : 26.69
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.29
+===============================================================
+===============================================================
+2022-08-06 01:51:31
+Elapsed time : 1343.34s
+Num iter : 20
+total episode count : 24047
+total transition count : 1036867
+total transition per episodes : 43.12
+episode count : 1148
+transition count : 52134
+transition per episodes : 45.41
+rewards per episodes : 25.89
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.27
+===============================================================
+===============================================================
+2022-08-06 01:52:34
+Elapsed time : 1406.72s
+Num iter : 21
+total episode count : 25030
+total transition count : 1089213
+total transition per episodes : 43.52
+episode count : 983
+transition count : 52346
+transition per episodes : 53.25
+rewards per episodes : 30.50
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.25
+===============================================================
+===============================================================
+2022-08-06 01:53:38
+Elapsed time : 1471.06s
+Num iter : 22
+total episode count : 26089
+total transition count : 1141268
+total transition per episodes : 43.75
+episode count : 1059
+transition count : 52055
+transition per episodes : 49.15
+rewards per episodes : 28.15
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.21
+===============================================================
+===============================================================
+2022-08-06 01:54:45
+Elapsed time : 1537.40s
+Num iter : 23
+total episode count : 27224
+total transition count : 1193142
+total transition per episodes : 43.83
+episode count : 1135
+transition count : 51874
+transition per episodes : 45.70
+rewards per episodes : 26.22
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.25
+===============================================================
+===============================================================
+2022-08-06 01:55:51
+Elapsed time : 1603.70s
+Num iter : 24
+total episode count : 28360
+total transition count : 1245264
+total transition per episodes : 43.91
+episode count : 1136
+transition count : 52122
+transition per episodes : 45.88
+rewards per episodes : 26.38
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.23
+===============================================================
+===============================================================
+2022-08-06 01:56:57
+Elapsed time : 1669.55s
+Num iter : 25
+total episode count : 29468
+total transition count : 1297101
+total transition per episodes : 44.02
+episode count : 1108
+transition count : 51837
+transition per episodes : 46.78
+rewards per episodes : 27.02
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.20
+===============================================================
+===============================================================
+2022-08-06 01:58:04
+Elapsed time : 1736.24s
+Num iter : 26
+total episode count : 30586
+total transition count : 1349179
+total transition per episodes : 44.11
+episode count : 1118
+transition count : 52078
+transition per episodes : 46.58
+rewards per episodes : 26.94
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.20
+===============================================================
+===============================================================
+2022-08-06 01:59:10
+Elapsed time : 1802.52s
+Num iter : 27
+total episode count : 31689
+total transition count : 1401061
+total transition per episodes : 44.21
+episode count : 1103
+transition count : 51882
+transition per episodes : 47.04
+rewards per episodes : 26.95
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.26
+===============================================================
+===============================================================
+2022-08-06 02:00:16
+Elapsed time : 1868.51s
+Num iter : 28
+total episode count : 32790
+total transition count : 1452895
+total transition per episodes : 44.31
+episode count : 1101
+transition count : 51834
+transition per episodes : 47.08
+rewards per episodes : 27.12
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.23
+===============================================================
+===============================================================
+2022-08-06 02:01:22
+Elapsed time : 1934.82s
+Num iter : 29
+total episode count : 33889
+total transition count : 1504877
+total transition per episodes : 44.41
+episode count : 1099
+transition count : 51982
+transition per episodes : 47.30
+rewards per episodes : 27.15
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.25
+===============================================================
+===============================================================
+2022-08-06 02:02:28
+Elapsed time : 2000.88s
+Num iter : 30
+total episode count : 34979
+total transition count : 1556787
+total transition per episodes : 44.51
+episode count : 1090
+transition count : 51910
+transition per episodes : 47.62
+rewards per episodes : 27.27
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.29
+===============================================================
+===============================================================
+2022-08-06 02:03:35
+Elapsed time : 2067.24s
+Num iter : 31
+total episode count : 36090
+total transition count : 1608819
+total transition per episodes : 44.58
+episode count : 1111
+transition count : 52032
+transition per episodes : 46.83
+rewards per episodes : 26.74
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.32
+===============================================================
+===============================================================
+2022-08-06 02:04:41
+Elapsed time : 2133.71s
+Num iter : 32
+total episode count : 37189
+total transition count : 1660818
+total transition per episodes : 44.66
+episode count : 1099
+transition count : 51999
+transition per episodes : 47.31
+rewards per episodes : 27.23
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.28
+===============================================================
+===============================================================
+2022-08-06 02:05:47
+Elapsed time : 2200.08s
+Num iter : 33
+total episode count : 38282
+total transition count : 1712908
+total transition per episodes : 44.74
+episode count : 1093
+transition count : 52090
+transition per episodes : 47.66
+rewards per episodes : 27.53
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.26
+===============================================================
+===============================================================
+2022-08-06 02:06:50
+Elapsed time : 2262.94s
+Num iter : 34
+total episode count : 39247
+total transition count : 1765093
+total transition per episodes : 44.97
+episode count : 965
+transition count : 52185
+transition per episodes : 54.08
+rewards per episodes : 30.98
+max episode length : 178.32969532062106
+normalized time elapsed per transition : 1.28
+===============================================================
+===============================================================
+2022-08-06 02:07:55
+Elapsed time : 2327.98s
+Num iter : 35
+total episode count : 40237
+total transition count : 1817525
+total transition per episodes : 45.17
+episode count : 990
+transition count : 52432
+transition per episodes : 52.96
+rewards per episodes : 30.47
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.23
+===============================================================
+===============================================================
+2022-08-06 02:08:59
+Elapsed time : 2391.58s
+Num iter : 36
+total episode count : 41215
+total transition count : 1869715
+total transition per episodes : 45.36
+episode count : 978
+transition count : 52190
+transition per episodes : 53.36
+rewards per episodes : 30.84
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.20
+===============================================================
+===============================================================
+2022-08-06 02:10:26
+Elapsed time : 2478.40s
+Num iter : 37
+total episode count : 42202
+total transition count : 1922191
+total transition per episodes : 45.55
+episode count : 987
+transition count : 52476
+transition per episodes : 53.17
+rewards per episodes : 30.74
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.19
+===============================================================
+===============================================================
+2022-08-06 02:11:28
+Elapsed time : 2541.09s
+Num iter : 38
+total episode count : 43081
+total transition count : 1974765
+total transition per episodes : 45.84
+episode count : 879
+transition count : 52574
+transition per episodes : 59.81
+rewards per episodes : 34.44
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.14
+===============================================================
+===============================================================
+2022-08-06 02:12:31
+Elapsed time : 2603.99s
+Num iter : 39
+total episode count : 43962
+total transition count : 2027347
+total transition per episodes : 46.12
+episode count : 881
+transition count : 52582
+transition per episodes : 59.68
+rewards per episodes : 34.69
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.09
+===============================================================
+===============================================================
+2022-08-06 02:13:35
+Elapsed time : 2667.45s
+Num iter : 40
+total episode count : 44863
+total transition count : 2079925
+total transition per episodes : 46.36
+episode count : 901
+transition count : 52578
+transition per episodes : 58.36
+rewards per episodes : 33.94
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.09
+===============================================================
+===============================================================
+2022-08-06 02:14:39
+Elapsed time : 2731.52s
+Num iter : 41
+total episode count : 45799
+total transition count : 2132511
+total transition per episodes : 46.56
+episode count : 936
+transition count : 52586
+transition per episodes : 56.18
+rewards per episodes : 32.64
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.10
+===============================================================
+===============================================================
+2022-08-06 02:16:04
+Elapsed time : 2817.07s
+Num iter : 42
+total episode count : 46678
+total transition count : 2185042
+total transition per episodes : 46.81
+episode count : 879
+transition count : 52531
+transition per episodes : 59.76
+rewards per episodes : 34.77
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.08
+===============================================================
+===============================================================
+2022-08-06 02:17:07
+Elapsed time : 2879.93s
+Num iter : 43
+total episode count : 47539
+total transition count : 2237669
+total transition per episodes : 47.07
+episode count : 861
+transition count : 52627
+transition per episodes : 61.12
+rewards per episodes : 35.40
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.10
+===============================================================
+===============================================================
+2022-08-06 02:18:11
+Elapsed time : 2943.23s
+Num iter : 44
+total episode count : 48364
+total transition count : 2290692
+total transition per episodes : 47.36
+episode count : 825
+transition count : 53023
+transition per episodes : 64.27
+rewards per episodes : 37.16
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 02:19:17
+Elapsed time : 3009.33s
+Num iter : 45
+total episode count : 49416
+total transition count : 2342820
+total transition per episodes : 47.41
+episode count : 1052
+transition count : 52128
+transition per episodes : 49.55
+rewards per episodes : 29.49
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.09
+===============================================================
+===============================================================
+2022-08-06 02:20:23
+Elapsed time : 3075.74s
+Num iter : 46
+total episode count : 50466
+total transition count : 2395059
+total transition per episodes : 47.46
+episode count : 1050
+transition count : 52239
+transition per episodes : 49.75
+rewards per episodes : 29.36
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:21:29
+Elapsed time : 3142.16s
+Num iter : 47
+total episode count : 51518
+total transition count : 2447418
+total transition per episodes : 47.51
+episode count : 1052
+transition count : 52359
+transition per episodes : 49.77
+rewards per episodes : 29.31
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.19
+===============================================================
+===============================================================
+2022-08-06 02:22:35
+Elapsed time : 3208.17s
+Num iter : 48
+total episode count : 52571
+total transition count : 2499522
+total transition per episodes : 47.55
+episode count : 1053
+transition count : 52104
+transition per episodes : 49.48
+rewards per episodes : 29.05
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.22
+===============================================================
+===============================================================
+2022-08-06 02:23:42
+Elapsed time : 3274.37s
+Num iter : 49
+total episode count : 53622
+total transition count : 2551714
+total transition per episodes : 47.59
+episode count : 1051
+transition count : 52192
+transition per episodes : 49.66
+rewards per episodes : 29.19
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.21
+===============================================================
+===============================================================
+2022-08-06 02:24:48
+Elapsed time : 3340.61s
+Num iter : 50
+total episode count : 54660
+total transition count : 2603866
+total transition per episodes : 47.64
+episode count : 1038
+transition count : 52152
+transition per episodes : 50.24
+rewards per episodes : 29.68
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.17
+===============================================================
+===============================================================
+2022-08-06 02:25:54
+Elapsed time : 3406.94s
+Num iter : 51
+total episode count : 55712
+total transition count : 2656116
+total transition per episodes : 47.68
+episode count : 1052
+transition count : 52250
+transition per episodes : 49.67
+rewards per episodes : 29.36
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.18
+===============================================================
+===============================================================
+2022-08-06 02:27:01
+Elapsed time : 3473.62s
+Num iter : 52
+total episode count : 56757
+total transition count : 2708556
+total transition per episodes : 47.72
+episode count : 1045
+transition count : 52440
+transition per episodes : 50.18
+rewards per episodes : 29.69
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.19
+===============================================================
+===============================================================
+2022-08-06 02:28:07
+Elapsed time : 3539.76s
+Num iter : 53
+total episode count : 57778
+total transition count : 2760572
+total transition per episodes : 47.78
+episode count : 1021
+transition count : 52016
+transition per episodes : 50.95
+rewards per episodes : 30.00
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.22
+===============================================================
+===============================================================
+2022-08-06 02:29:13
+Elapsed time : 3606.15s
+Num iter : 54
+total episode count : 58813
+total transition count : 2812836
+total transition per episodes : 47.83
+episode count : 1035
+transition count : 52264
+transition per episodes : 50.50
+rewards per episodes : 29.73
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.24
+===============================================================
+===============================================================
+2022-08-06 02:30:20
+Elapsed time : 3672.38s
+Num iter : 55
+total episode count : 59855
+total transition count : 2865082
+total transition per episodes : 47.87
+episode count : 1042
+transition count : 52246
+transition per episodes : 50.14
+rewards per episodes : 29.48
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.24
+===============================================================
+===============================================================
+2022-08-06 02:31:25
+Elapsed time : 3737.50s
+Num iter : 56
+total episode count : 60851
+total transition count : 2917479
+total transition per episodes : 47.94
+episode count : 996
+transition count : 52397
+transition per episodes : 52.61
+rewards per episodes : 30.76
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.24
+===============================================================
+===============================================================
+2022-08-06 02:32:30
+Elapsed time : 3802.80s
+Num iter : 57
+total episode count : 61821
+total transition count : 2969881
+total transition per episodes : 48.04
+episode count : 970
+transition count : 52402
+transition per episodes : 54.02
+rewards per episodes : 31.65
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.23
+===============================================================
+===============================================================
+2022-08-06 02:33:35
+Elapsed time : 3867.89s
+Num iter : 58
+total episode count : 62770
+total transition count : 3022329
+total transition per episodes : 48.15
+episode count : 949
+transition count : 52448
+transition per episodes : 55.27
+rewards per episodes : 32.50
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.19
+===============================================================
+===============================================================
+2022-08-06 02:35:02
+Elapsed time : 3954.40s
+Num iter : 59
+total episode count : 63640
+total transition count : 3074721
+total transition per episodes : 48.31
+episode count : 870
+transition count : 52392
+transition per episodes : 60.22
+rewards per episodes : 35.04
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.17
+===============================================================
+===============================================================
+2022-08-06 02:36:05
+Elapsed time : 4017.30s
+Num iter : 60
+total episode count : 64453
+total transition count : 3127320
+total transition per episodes : 48.52
+episode count : 813
+transition count : 52599
+transition per episodes : 64.70
+rewards per episodes : 37.59
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:37:08
+Elapsed time : 4080.55s
+Num iter : 61
+total episode count : 65268
+total transition count : 3179967
+total transition per episodes : 48.72
+episode count : 815
+transition count : 52647
+transition per episodes : 64.60
+rewards per episodes : 37.77
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:38:12
+Elapsed time : 4145.13s
+Num iter : 62
+total episode count : 66118
+total transition count : 3232965
+total transition per episodes : 48.90
+episode count : 850
+transition count : 52998
+transition per episodes : 62.35
+rewards per episodes : 36.54
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:39:16
+Elapsed time : 4209.08s
+Num iter : 63
+total episode count : 67019
+total transition count : 3285236
+total transition per episodes : 49.02
+episode count : 901
+transition count : 52271
+transition per episodes : 58.01
+rewards per episodes : 33.91
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.14
+===============================================================
+===============================================================
+2022-08-06 02:40:42
+Elapsed time : 4294.66s
+Num iter : 64
+total episode count : 67822
+total transition count : 3338013
+total transition per episodes : 49.22
+episode count : 803
+transition count : 52777
+transition per episodes : 65.72
+rewards per episodes : 38.38
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 02:41:45
+Elapsed time : 4358.05s
+Num iter : 65
+total episode count : 68649
+total transition count : 3390503
+total transition per episodes : 49.39
+episode count : 827
+transition count : 52490
+transition per episodes : 63.47
+rewards per episodes : 37.10
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.12
+===============================================================
+===============================================================
+2022-08-06 02:42:50
+Elapsed time : 4422.20s
+Num iter : 66
+total episode count : 69507
+total transition count : 3443449
+total transition per episodes : 49.54
+episode count : 858
+transition count : 52946
+transition per episodes : 61.71
+rewards per episodes : 36.17
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:43:56
+Elapsed time : 4488.42s
+Num iter : 67
+total episode count : 70499
+total transition count : 3495665
+total transition per episodes : 49.58
+episode count : 992
+transition count : 52216
+transition per episodes : 52.64
+rewards per episodes : 31.32
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.12
+===============================================================
+===============================================================
+2022-08-06 02:45:03
+Elapsed time : 4555.23s
+Num iter : 68
+total episode count : 71498
+total transition count : 3547680
+total transition per episodes : 49.62
+episode count : 999
+transition count : 52015
+transition per episodes : 52.07
+rewards per episodes : 30.96
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:46:09
+Elapsed time : 4621.85s
+Num iter : 69
+total episode count : 72502
+total transition count : 3599920
+total transition per episodes : 49.65
+episode count : 1004
+transition count : 52240
+transition per episodes : 52.03
+rewards per episodes : 30.92
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.15
+===============================================================
+===============================================================
+2022-08-06 02:47:16
+Elapsed time : 4688.20s
+Num iter : 70
+total episode count : 73497
+total transition count : 3652087
+total transition per episodes : 49.69
+episode count : 995
+transition count : 52167
+transition per episodes : 52.43
+rewards per episodes : 31.27
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.14
+===============================================================
+===============================================================
+2022-08-06 02:48:22
+Elapsed time : 4754.54s
+Num iter : 71
+total episode count : 74500
+total transition count : 3704357
+total transition per episodes : 49.72
+episode count : 1003
+transition count : 52270
+transition per episodes : 52.11
+rewards per episodes : 31.08
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 02:49:28
+Elapsed time : 4820.91s
+Num iter : 72
+total episode count : 75498
+total transition count : 3756468
+total transition per episodes : 49.76
+episode count : 998
+transition count : 52111
+transition per episodes : 52.22
+rewards per episodes : 31.11
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.14
+===============================================================
+===============================================================
+2022-08-06 02:50:35
+Elapsed time : 4887.31s
+Num iter : 73
+total episode count : 76482
+total transition count : 3808671
+total transition per episodes : 49.80
+episode count : 984
+transition count : 52203
+transition per episodes : 53.05
+rewards per episodes : 31.52
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:51:41
+Elapsed time : 4953.27s
+Num iter : 74
+total episode count : 77476
+total transition count : 3860865
+total transition per episodes : 49.83
+episode count : 994
+transition count : 52194
+transition per episodes : 52.51
+rewards per episodes : 31.22
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:52:47
+Elapsed time : 5019.83s
+Num iter : 75
+total episode count : 78468
+total transition count : 3913265
+total transition per episodes : 49.87
+episode count : 992
+transition count : 52400
+transition per episodes : 52.82
+rewards per episodes : 31.57
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.15
+===============================================================
+===============================================================
+2022-08-06 02:53:54
+Elapsed time : 5086.48s
+Num iter : 76
+total episode count : 79447
+total transition count : 3965511
+total transition per episodes : 49.91
+episode count : 979
+transition count : 52246
+transition per episodes : 53.37
+rewards per episodes : 31.87
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.17
+===============================================================
+===============================================================
+2022-08-06 02:55:00
+Elapsed time : 5152.36s
+Num iter : 77
+total episode count : 80403
+total transition count : 4017302
+total transition per episodes : 49.96
+episode count : 956
+transition count : 51791
+transition per episodes : 54.17
+rewards per episodes : 32.30
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:56:05
+Elapsed time : 5217.86s
+Num iter : 78
+total episode count : 81328
+total transition count : 4069682
+total transition per episodes : 50.04
+episode count : 925
+transition count : 52380
+transition per episodes : 56.63
+rewards per episodes : 33.54
+max episode length : 201.49223025223222
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:57:12
+Elapsed time : 5284.60s
+Num iter : 79
+total episode count : 82288
+total transition count : 4122149
+total transition per episodes : 50.09
+episode count : 960
+transition count : 52467
+transition per episodes : 54.65
+rewards per episodes : 32.56
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.16
+===============================================================
+===============================================================
+2022-08-06 02:58:17
+Elapsed time : 5349.33s
+Num iter : 80
+total episode count : 83164
+total transition count : 4174966
+total transition per episodes : 50.20
+episode count : 876
+transition count : 52817
+transition per episodes : 60.29
+rewards per episodes : 35.56
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.12
+===============================================================
+===============================================================
+2022-08-06 02:59:44
+Elapsed time : 5436.76s
+Num iter : 81
+total episode count : 84016
+total transition count : 4227747
+total transition per episodes : 50.32
+episode count : 852
+transition count : 52781
+transition per episodes : 61.95
+rewards per episodes : 36.63
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.13
+===============================================================
+===============================================================
+2022-08-06 03:00:49
+Elapsed time : 5501.52s
+Num iter : 82
+total episode count : 84878
+total transition count : 4280665
+total transition per episodes : 50.43
+episode count : 862
+transition count : 52918
+transition per episodes : 61.39
+rewards per episodes : 36.28
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 03:01:51
+Elapsed time : 5564.02s
+Num iter : 83
+total episode count : 85620
+total transition count : 4333835
+total transition per episodes : 50.62
+episode count : 742
+transition count : 53170
+transition per episodes : 71.66
+rewards per episodes : 41.84
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.07
+===============================================================
+===============================================================
+2022-08-06 03:02:55
+Elapsed time : 5627.88s
+Num iter : 84
+total episode count : 86419
+total transition count : 4386602
+total transition per episodes : 50.76
+episode count : 799
+transition count : 52767
+transition per episodes : 66.04
+rewards per episodes : 38.74
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.07
+===============================================================
+===============================================================
+2022-08-06 03:03:59
+Elapsed time : 5691.27s
+Num iter : 85
+total episode count : 87210
+total transition count : 4439424
+total transition per episodes : 50.90
+episode count : 791
+transition count : 52822
+transition per episodes : 66.78
+rewards per episodes : 39.28
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.05
+===============================================================
+===============================================================
+2022-08-06 03:05:26
+Elapsed time : 5778.35s
+Num iter : 86
+total episode count : 88019
+total transition count : 4492338
+total transition per episodes : 51.04
+episode count : 809
+transition count : 52914
+transition per episodes : 65.41
+rewards per episodes : 38.50
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.07
+===============================================================
+===============================================================
+2022-08-06 03:06:29
+Elapsed time : 5842.12s
+Num iter : 87
+total episode count : 88832
+total transition count : 4545021
+total transition per episodes : 51.16
+episode count : 813
+transition count : 52683
+transition per episodes : 64.80
+rewards per episodes : 38.20
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.05
+===============================================================
+===============================================================
+2022-08-06 03:07:34
+Elapsed time : 5906.41s
+Num iter : 88
+total episode count : 89607
+total transition count : 4598245
+total transition per episodes : 51.32
+episode count : 775
+transition count : 53224
+transition per episodes : 68.68
+rewards per episodes : 40.41
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.04
+===============================================================
+===============================================================
+2022-08-06 03:08:40
+Elapsed time : 5973.00s
+Num iter : 89
+total episode count : 90552
+total transition count : 4650688
+total transition per episodes : 51.36
+episode count : 945
+transition count : 52443
+transition per episodes : 55.50
+rewards per episodes : 33.39
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.06
+===============================================================
+===============================================================
+2022-08-06 03:09:47
+Elapsed time : 6039.37s
+Num iter : 90
+total episode count : 91476
+total transition count : 4702923
+total transition per episodes : 51.41
+episode count : 924
+transition count : 52235
+transition per episodes : 56.53
+rewards per episodes : 34.15
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.07
+===============================================================
+===============================================================
+2022-08-06 03:10:53
+Elapsed time : 6105.39s
+Num iter : 91
+total episode count : 92405
+total transition count : 4755086
+total transition per episodes : 51.46
+episode count : 929
+transition count : 52163
+transition per episodes : 56.15
+rewards per episodes : 33.78
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.09
+===============================================================
+===============================================================
+2022-08-06 03:12:00
+Elapsed time : 6172.31s
+Num iter : 92
+total episode count : 93316
+total transition count : 4807516
+total transition per episodes : 51.52
+episode count : 911
+transition count : 52430
+transition per episodes : 57.55
+rewards per episodes : 34.72
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.08
+===============================================================
+===============================================================
+2022-08-06 03:13:07
+Elapsed time : 6239.30s
+Num iter : 93
+total episode count : 94240
+total transition count : 4860142
+total transition per episodes : 51.57
+episode count : 924
+transition count : 52626
+transition per episodes : 56.95
+rewards per episodes : 34.29
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.09
+===============================================================
+===============================================================
+2022-08-06 03:14:13
+Elapsed time : 6305.97s
+Num iter : 94
+total episode count : 95158
+total transition count : 4912435
+total transition per episodes : 51.62
+episode count : 918
+transition count : 52293
+transition per episodes : 56.96
+rewards per episodes : 34.23
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.10
+===============================================================
+===============================================================
+2022-08-06 03:15:20
+Elapsed time : 6373.03s
+Num iter : 95
+total episode count : 96061
+total transition count : 4965061
+total transition per episodes : 51.69
+episode count : 903
+transition count : 52626
+transition per episodes : 58.28
+rewards per episodes : 35.00
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 03:16:27
+Elapsed time : 6439.66s
+Num iter : 96
+total episode count : 96954
+total transition count : 5017404
+total transition per episodes : 51.75
+episode count : 893
+transition count : 52343
+transition per episodes : 58.61
+rewards per episodes : 35.19
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 03:17:33
+Elapsed time : 6506.16s
+Num iter : 97
+total episode count : 97829
+total transition count : 5069814
+total transition per episodes : 51.82
+episode count : 875
+transition count : 52410
+transition per episodes : 59.90
+rewards per episodes : 35.90
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.10
+===============================================================
+===============================================================
+2022-08-06 03:18:40
+Elapsed time : 6573.07s
+Num iter : 98
+total episode count : 98706
+total transition count : 5122605
+total transition per episodes : 51.90
+episode count : 877
+transition count : 52791
+transition per episodes : 60.19
+rewards per episodes : 36.31
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 03:19:47
+Elapsed time : 6639.79s
+Num iter : 99
+total episode count : 99579
+total transition count : 5174992
+total transition per episodes : 51.97
+episode count : 873
+transition count : 52387
+transition per episodes : 60.01
+rewards per episodes : 36.22
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.11
+===============================================================
+===============================================================
+2022-08-06 03:20:53
+Elapsed time : 6705.23s
+Num iter : 100
+total episode count : 100351
+total transition count : 5228052
+total transition per episodes : 52.10
+episode count : 772
+transition count : 53060
+transition per episodes : 68.73
+rewards per episodes : 40.86
+max episode length : 201.7538053901398
+normalized time elapsed per transition : 1.09
+===============================================================

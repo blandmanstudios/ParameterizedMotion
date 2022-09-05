@@ -94,6 +94,109 @@ to "teach" a motion
 ./render --bvh=backflip_mxm.bvh --ppo=backflip_mxm_test1_24_hour_run_1259Iterations_parameterized_for140_minutes/network-0 --parametric
 ```
 
+# Running Building and Running the jump myself
+```
+cd network
+source ../py_env/bin/activate
+python3 ppo.py --ref=jump_mxm.bvh --test_name=jump_mxm_test1 --nslave=8 --ntimesteps=1000
+source ../py_env/bin/activate
+python3 ppo.py --ref=jump_mxm.bvh --test_name=jump_mxm_test2 --nslave=8 --ntimesteps=1000 --parametric
+```
+
+```
+===============================================================
+iter 996 : 10524/10000
+iter 997 : 10548/10000
+iter 998 : 10334/10000
+iter 999 : 10271/10000
+iter 1000 : 10631/10000
+===============================================================
+2022-08-05 01:13:25
+Elapsed time : 14368.21s
+Num iter : 200
+total episode count : 162895
+total transition count : 10347920
+total transition per episodes : 63.53
+episode count : 459
+transition count : 52308
+transition per episodes : 113.96
+rewards per episodes : 73.81
+max episode length : 202.0
+normalized time elapsed per transition : 1.00
+===============================================================
+loss actor: 0.190
+loss critic: 13.099
+```
+
+```
+===============================================================
+iter 991 : 5164/5000
+iter 992 : 5392/5000
+iter 993 : 5385/5000
+iter 994 : 5169/5000
+iter 995 : 5278/5000
+iter 996 : 5225/5000
+from param network
+iter 997 : 5284/5000
+iter 998 : 5314/5000
+from param network
+iter 999 : 5206/5000
+iter 1000 : 5235/5000
+mode:  exploit , exploration rate 0
+v mean:  6.583869555409251
+===============================================================
+2022-08-04 23:45:19
+Elapsed time : 8383.66s
+Num iter : 100
+total episode count : 99927
+total transition count : 5227941
+total transition per episodes : 52.32
+episode count : 828
+transition count : 52652
+transition per episodes : 63.59
+rewards per episodes : 37.89
+max episode length : 192.71521561030738
+normalized time elapsed per transition : 1.11
+===============================================================
+loss actor: 0.206
+loss critic: 5.068
+loss critic marginal: 395.708
+===============================================================
+```
+
+
+```
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm_test1/network-0
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm_test2/network-0 --parametric
+```
+
+What happens if a parametrically train the pretrained
+```
+cp -r ../../network/output/jump_mxm_test1 ../../network/output/jump_mxm_test3
+python3 ppo.py --ref=jump_mxm.bvh --test_name=jump_mxm_test3 --nslave=8 --ntimesteps=1000 --parametric
+```
+
+Test 3 still stucks at jumping
+```
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm_test3/network-0 --parametric
+```
+
+I'm going to train him for 10000 iterations iterations (starting from the n=1000
+pretrain)
+``
+cp -r ../../network/output/jump_mxm_test1 ../../network/output/jump_mxm_test4
+python3 ppo.py --ref=jump_mxm.bvh --test_name=jump_mxm_test4 --nslave=8 --ntimesteps=10000 --parametric
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm_test4/network-0 --parametric
+``
+
+Jump test v4 looks pretty good for some things with parametric (ex. high gravity is good but high energy is bad)
+```
+cp -r ../../network/output/jump_mxm_test4 ../../network/output/jump_mxm_test5
+python3 ppo.py --ref=jump_mxm.bvh --test_name=jump_mxm_test5 --nslave=8 --ntimesteps=100000 --parametric
+./render --bvh=jump_mxm.bvh --ppo=jump_mxm_test5/network-0 --parametric
+```
+
+
 
 ## Errors error codes and fixes
 
